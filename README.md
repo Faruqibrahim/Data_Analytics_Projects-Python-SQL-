@@ -54,12 +54,3 @@ This SQL script includes:
 - The data transformation process in Python ensures that the data is clean and in the right format for SQL analysis.
 - SQL queries are used to perform complex analyses that are crucial for business decision-making.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any queries, please contact [your_email@example.com](mailto:your_email@example.com).
-
----
-
-You can copy this content into a `README.md` file in your GitHub repository. Adjust the links and contact details as necessary. If you want to upload this file to your repository, create a file named `README.md` in the root of your project directory and paste the content there.
